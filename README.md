@@ -1,8 +1,8 @@
 # CPP-Review-Part-1
 
 Topics: 
-data representation - data types
-flow of control - loops
+data representation - data types,
+flow of control - loops,
 functions
 
 How it works:
